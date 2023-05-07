@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Taurenkey & Puni.sh",
+    "Name": "Artisan",
+    "InternalName": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "AssemblyVersion": "1.0.6.4",
+    "Description": "The all-in-one crafting plugin.",
+    "Tags": [
+      "crafting"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadCount": 39684,
+    "IconUrl": "https://love.puni.sh/resources/artisan.png",
+    "RepoUrl": "https://love.puni.sh/resources/artisan.png",
+    "DownloadLinkInstall": "https://raw.iqiq.io/LintoWilr/Artisan/main/Release.zip",
+    "DownloadLinkUpdate": "https://raw.iqiq.io/LintoWilr/Artisan/main/Release.zip",
+    "DownloadLinkTesting": "https://raw.iqiq.io/LintoWilr/Artisan/main/Release.zip"
+  }
+]
