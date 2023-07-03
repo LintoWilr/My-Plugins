@@ -28,8 +28,8 @@
   {
     "Author": "Aida Enna",
     "Name": "Potato Famine 2",
-    "Description": "Changes lalafells (or everyone or specific people) into another race of your choosing.",
-    "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
+    "Description": "改变种族，让世界拥有更多猫娘龙娘，同时可以让你讨厌的种族消失.但是肥肥很可爱！",
+    "Punchline": "让你讨厌的种族消失的好工具.",
     "InternalName": "PotatoFamine2",
     "AssemblyVersion": "2.0.0.1",
     "Changelog": "- Removed debug output",
@@ -45,11 +45,11 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1678917266,
+    "LastUpdated": 0,
     "DownloadCount": 69420,
-    "IconUrl": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/Plogon/Resources/Icons/PotatoFamine2.png",
-    "DownloadLinkInstall": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/PotatoFamine2.zip?raw=true",
-    "DownloadLinkTesting": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/PotatoFamine2.zip?raw=true",
-    "DownloadLinkUpdate": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/PotatoFamine2.zip?raw=true"
+    "IconUrl": "https://raw.iqiq.io/LintoWilr/My-Plugins/main/PotatoFamine2/PotatoFamine2.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
   }
 ]
