@@ -28,15 +28,15 @@
   {
     "Author": "Aida Enna",
     "Name": "Potato Famine 2",
-    "Description": "改变种族，让世界拥有更多猫娘龙娘，同时可以让你讨厌的种族消失.但是肥肥很可爱！",
-    "Punchline": "让你讨厌的种族消失的好工具.",
+    "Description": "Changes lalafells (or everyone) into another race of your choosing.",
+    "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
     "InternalName": "PotatoFamine2",
     "AssemblyVersion": "2.0.0.1",
-    "Changelog": "- Removed debug output",
+    "Changelog": "",
     "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
     "ApplicableVersion": "any",
     "Tags": [
-    "lala",
+      "lala",
       "lalafell",
       "potato",
       "famine",
@@ -51,7 +51,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
-  }
+  },
    {
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
