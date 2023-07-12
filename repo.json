@@ -1,31 +1,31 @@
 [
-  {
-    "Author": "Aida Enna",
-    "Name": "Potato Famine 2",
-    "Description": "Changes lalafells (or everyone) into another race of your choosing.",
-    "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
-    "InternalName": "PotatoFamine2",
-    "AssemblyVersion": "2.0.0.1",
-    "Changelog": "",
-    "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "lala",
-      "lalafell",
-      "potato",
-      "famine",
-      "aida"
-    ],
-    "DalamudApiLevel": 8,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,
-    "DownloadCount": 69420,
-    "IconUrl": "https://raw.iqiq.io/LintoWilr/My-Plugins/main/PotatoFamine2/PotatoFamine2.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
-   },
+    {
+        "Author": "Aida Enna",
+        "Name": "Potato Famine 2",
+        "Description": "Changes lalafells (or everyone) into another race of your choosing.",
+        "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
+        "InternalName": "PotatoFamine2",
+        "AssemblyVersion": "2.0.0.1",
+        "Changelog": "",
+        "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "lala",
+            "lalafell",
+            "potato",
+            "famine",
+            "aida"
+        ],
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 69420,
+        "IconUrl": "https://raw.iqiq.io/LintoWilr/My-Plugins/main/PotatoFamine2/PotatoFamine2.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
+    },
     {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Artisan",
