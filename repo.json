@@ -26,28 +26,28 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
    },
-   {
-    "Author": "Taurenkey (Puni.sh)",
-    "Name": "Artisan",
-    "Description": "The all-in-one crafting plugin.",
-    "Punchline": "A 'simple' crafting plugin.",
-    "InternalName": "Artisan",
-    "AssemblyVersion": "1.7.4.19",
-    "Changelog": "",
-    "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "ApplicableVersion": "any",
-    "Tags": [
-    "lala",
-      "crafting"
-    ],
-    "DalamudApiLevel": 8,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": "1686809682",
-    "DownloadCount": 0,
-    "IconUrl": "https://love.puni.sh/resources/artisan.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip"
-}
+    {
+        "Author": "Taurenkey (Puni.sh)",
+        "Name": "Artisan",
+        "Description": "The all-in-one crafting plugin.",
+        "Punchline": "A 'simple' crafting plugin.",
+        "InternalName": "Artisan",
+        "AssemblyVersion": "1.7.4.19",
+        "Changelog": "",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "lala",
+            "crafting"
+        ],
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": "1686809682",
+        "DownloadCount": 0,
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip"
+    }
 ]
