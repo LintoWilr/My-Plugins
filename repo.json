@@ -6,7 +6,6 @@
     "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
     "InternalName": "PotatoFamine2",
     "AssemblyVersion": "2.0.0.1",
-    "Changelog": "",
     "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
     "ApplicableVersion": "any",
     "Tags": [
@@ -33,7 +32,6 @@
     "Punchline": "A 'simple' crafting plugin.",
     "InternalName": "Artisan",
     "AssemblyVersion": "1.7.4.19",
-    "Changelog": "",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "Tags": ["crafting"],
