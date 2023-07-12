@@ -1,32 +1,6 @@
 [
   {
     "Author": "Aida Enna",
-    "Name": "Food Check",
-    "Description": "在倒计时开始时监测谁没吃食物，并可选择在小队频道/默语频道中发布自定义出警信息",
-    "Punchline": "队里老有人忘记吃食物，我懒得一个个提醒他们了。现在，这个插件可以帮我自动出警没吃食物的人！",
-    "InternalName": "FoodCheck",
-    "AssemblyVersion": "1.0.0.1",
-    "Changelog": "",
-    "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "food",
-        "foodcheck",
-      "raid",
-      "aida"
-    ],
-    "DalamudApiLevel": 8,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,
-    "DownloadCount": 69420,
-    "IconUrl": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/Plogon/Resources/Icons/FoodCheck.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/FoodCheck/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/FoodCheck/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/FoodCheck/latest.zip"
-  },
-  {
-    "Author": "Aida Enna",
     "Name": "Potato Famine 2",
     "Description": "Changes lalafells (or everyone) into another race of your choosing.",
     "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
@@ -75,4 +49,5 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/Artisan/latest.zip"
+    },
 ]
