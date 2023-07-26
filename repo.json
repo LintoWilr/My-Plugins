@@ -2,8 +2,8 @@
     {
         "Author": "Aida Enna",
         "Name": "Potato Famine 2",
-        "Description": "Changes lalafells (or everyone) into another race of your choosing.",
-        "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
+        "Description": "改变他人或自己的种族！",
+        "Punchline": "你想要更多猫娘龙娘？",
         "InternalName": "PotatoFamine2",
         "AssemblyVersion": "2.0.0.1",
         "Changelog": "",
@@ -21,7 +21,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 69420,
-        "IconUrl": "https://raw.iqiq.io/LintoWilr/My-Plugins/main/PotatoFamine2/PotatoFamine2.png",
+        "IconUrl": "https://github.com/LintoWilr/My-Plugins/blob/main/PotatoFamine2/PotatoFamine2.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip"
