@@ -29,10 +29,10 @@
     {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Artisan",
-        "Description": "The all-in-one crafting plugin.",
+        "Description": "生产工具.",
         "Punchline": "A 'simple' crafting plugin.",
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.7.4.19",
+        "AssemblyVersion": "2.0.0.0",
         "Changelog": "",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
