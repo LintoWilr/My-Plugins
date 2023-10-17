@@ -10,17 +10,17 @@
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "ApplicableVersion": "any",
         "Tags": [
-            "lala",
-            "lalafell",
-            "potato",
-            "famine",
-            "aida"
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "DalamudApiLevel": 8,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
-        "DownloadCount": 69420,
+        "DownloadCount": ,
         "IconUrl": "https://github.com/LintoWilr/My-Plugins/blob/main/PotatoFamine2/PotatoFamine2.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/latest.zip",
