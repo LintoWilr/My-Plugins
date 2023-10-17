@@ -34,7 +34,7 @@
         "ApplicableVersion": "any",
         "Tags": [
             "lala",
-            "crafting"
+            "crafting",
         ],
         "DalamudApiLevel": 8,
         "IsHide": "False",
