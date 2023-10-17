@@ -10,11 +10,7 @@
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "ApplicableVersion": "any",
         "Tags": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "lala",
         ],
         "DalamudApiLevel": 8,
         "IsHide": "False",
