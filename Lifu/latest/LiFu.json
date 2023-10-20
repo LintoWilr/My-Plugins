@@ -3,9 +3,9 @@
   "Testing": false,
   "ScheduledForDeletion": false,
   "InstalledFromUrl": "",
+  "WorkingPluginId": "9da83e43-94bf-40a8-8977-df084c343ee4",
   "IsThirdParty": false,
   "EffectiveVersion": "1.1.2.1",
-  "IsAvailableForTesting": false,
   "Author": "",
   "Name": "LiFu",
   "Punchline": "LiFu",
@@ -30,12 +30,12 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "CanUnloadAsync": false,
+  "SupportsProfiles": true,
   "ImageUrls": [
     ""
   ],
   "IconUrl": "",
   "AcceptsFeedback": false,
   "FeedbackMessage": null,
-  "_isDip17Plugin": false,
   "_Dip17Channel": null
 }
