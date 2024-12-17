@@ -28,7 +28,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "10",
     "Changelog": "## What's Changed\r\n* Path update by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/685\r\n* Update Path MD5 by @github-actions in https://github.com/ffxivcode/AutoDuty/pull/686\r\n* updated Gearsetter IPC by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/687\r\n* (788) Saint Mocianne's Arboretum (Hard).json by @maaakigai in https://github.com/ffxivcode/AutoDuty/pull/689\r\n* Saint Mocianne's Arboretum (Hard) improvements by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/690\r\n* Add path for Saint Mocianne's Arboretum (Hard) by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/691\r\n* update antitower final boss by @pot0to in https://github.com/ffxivcode/AutoDuty/pull/694\r\n* updated Gearsetter IPC, treasure chest interactions and filehelper multi thread lock by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/695\r\n* Update (1036) Sastasha.json by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/696\r\n\r\n## New Contributors\r\n* @maaakigai made their first contribution in https://github.com/ffxivcode/AutoDuty/pull/689\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/AutoDuty/compare/0.0.0.179...0.0.0.180",
-    "TestingAssemblyVersion": "0.0.0.176",
+    "TestingAssemblyVersion": "0.0.0.173",
     "DownloadLinkTesting": "https://github.com/LintoWilr/AD/releases/download/11/Debug.zip",
     "TestingDalamudApiLevel": "10",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
