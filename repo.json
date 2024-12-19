@@ -1,11 +1,11 @@
 [
   {
-    "Author": "Avaflow, Ars Magna, Kelvin,LintoWilr(魔改)",
+    "Author": " ",
     "Name": "OopsAllHrothgarS",
     "InternalName": "OopsAllHrothgarS",
-    "Punchline": "让大猫从你的视野里消失",
-    "AssemblyVersion": "9.9.9.9",
-    "Description": "本插件没有任何歧视性行为",
+    "Punchline": "让大猫NPC或玩家变成其他种族",
+    "AssemblyVersion": "10.0.0.0",
+    "Description": "需要Penumbra(前置)\n没有歧视任何种族",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "IconUrl": "https://github.com/LintoWilr/My-Plugins/raw/main/PotatoFamine2/PotatoFamine2.png",
